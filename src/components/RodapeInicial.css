@@ -1,0 +1,14 @@
+.imagensRodapeInicial img {
+    
+    width: 150px ;
+    height: 95px;
+
+}
+
+.imagensRodapeInicial {
+    
+    display: flex;
+
+}
+
+

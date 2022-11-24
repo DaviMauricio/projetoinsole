@@ -1,0 +1,93 @@
+.rodape {
+
+    display: flex;
+    color: #ffffff;
+    margin-top: 160px; 
+    padding: 40px;
+    height: 300px;
+    overflow-y: hidden;
+
+}
+
+.rodapeprimeiro{
+    padding: -150px;
+    line-height: 10px;
+
+}
+
+.rodapefinal{
+
+    margin-left: 170px;
+    margin-right: 24px;
+
+}
+
+.rodapefinal img{
+    width: 150px ;
+    height: 95px;
+
+}
+
+.rodape p:hover{
+
+    color: #f44c24;
+
+}
+
+.rodapemeio{
+    margin-left: 212.5px;
+    margin-right: 24px;
+    display: block;
+    
+    
+
+}
+
+.rodapeultimo{
+    
+    margin-left: 150px;
+    margin-right: 24px;
+    
+
+}
+
+.rodapeultimo p{
+    font-size: 13px;
+    line-height: 10px;
+    display: block;
+
+
+}
+
+.rodapemeio p{
+    font-size: 16px;
+    line-height: 10px;
+    display: block;
+
+}
+
+.rodapefinal p{
+    font-size: 16px;
+    line-height: 10px;
+    display: block;
+}
+
+#titulo {
+    text-transform: uppercase;
+    color: #f44c24;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+#titulocidade {
+    font-weight: bold;
+
+}
+
